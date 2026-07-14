@@ -10,14 +10,18 @@ Denna integritetspolicy beskriver hur Jako Rostami, JR Labs ("vi", "vår" eller 
 
 Vi respekterar din integritet och är engagerade i att skydda den. Vi har byggt denna App för att vara rent funktionell och köras helt på klientsidan (client-side), vilket innebär att vi har utformat den så att vi inte samlar in, lagrar eller behandlar några av dina personuppgifter på våra servrar.
 
+Vi bryr oss om din integritet. Lastbilskörkort Pro ber dig inte skapa konto eller lämna namn, e‑post eller telefonnummer och dina studieframsteg stannar på din enhet. Vi driver inga egna servrar för dina data. Undantaget är prenumerationer: för att sälja, återställa och hantera dem använder appen Apple, RevenueCat och Superwall som hanterar en begränsad mängd köp‑ och betalväggsinformation enligt beskrivningen nedan.
+
 2. Datainsamling och användning
 Vi samlar inte in några personuppgifter.
 
-Inget konto krävs: Du behöver inte skapa ett konto, logga in eller ange namn, e-postadress eller telefonnummer för att använda Appen.
+Inget konto: Du behöver inte skapa konto, logga in eller ange namn, e‑post eller telefonnummer.
 
-Ingen anslutning till fjärrserver: Appen fungerar helt och hållet på din enhet. Den skickar inte data till någon extern server eller molndatabas.
+Dina studieuppgifter stannar hos dig: svar från introduktionen, läs‑ och quizframsteg, quiz‑ och provsessioner, senaste aktivitet och inställningar finns bara på din enhet. Vi skickar aldrig dina introduktions‑ eller quizsvar till någon.
 
-Ingen spårning: Vi spårar inte din plats, dina användarvanor eller dina enhetsidentifierare (IDFA).
+Prenumerationer: När du öppnar en betalvägg eller köper eller återställer en prenumeration hanterar Apple, RevenueCat och Superwall den information som behövs för det. RevenueCat identifierar din prenumeration med ett anonymt ID som inte är kopplat till vem du är.
+
+Ingen annonsspårning: Appen visar ingen reklam och spårar dig inte mellan andra appar, ingen IDFA och ingen förfrågan via App Tracking Transparency. Superwall registrerar hur betalväggen används men bara för att prenumerationsflödet ska fungera och kunna förbättras.
 
 3. Lokal lagring
 Appen använder din enhets interna lokala lagring (t.ex. iOS UserDefaults eller CoreData) för att fungera korrekt.
@@ -26,17 +30,22 @@ Vad som lagras: Vi kan lagra data relaterad till dina provframsteg, frågesportr
 
 Var det lagras: Denna data lagras strikt på din enhet.
 
-Kontroll: Eftersom denna data lagras lokalt har du full kontroll över den. Om du raderar Appen från din enhet kommer denna data att raderas permanent. Vi har ingen möjlighet att komma åt eller återställa denna data.
+Kontroll: eftersom studieuppgifterna finns på din enhet kan vi varken se eller återskapa dem och om du raderar appen försvinner de från din enhet. Tänk på att köp‑ och prenumerationsuppgifter hos Apple, RevenueCat och Superwall inte tas bort när du avinstallerar, de följer respektive företags egna villkor.
 
 4. Tredjepartstjänster
-Appen inkluderar inga tredjeparts-SDK:er (Software Development Kits), analysverktyg eller annonsnätverk. Vi delar inte data med tredje part eftersom vi inte samlar in någon data att dela.
+Appen har inga annons‑ eller analysnätverk. Den använder tre tjänster, och bara för prenumerationer:
+• Apple / StoreKit hanterar själva köpen och prenumerationerna.
+• RevenueCat sköter produkter, priser, din anonyma prenumerationsstatus, köp, återställning och berättigande till provperiod.
+• Superwall visar betalväggarna och skickar köpen vidare till RevenueCat.
 
-5. GDPR-efterlevnad (Dataskyddsförordningen)
+Vi delar inga av dina introduktions‑ eller quizsvar med dem. Deras policyer: Apple (apple.com/legal/privacy), RevenueCat (revenuecat.com/privacy), Superwall (superwall.com/legal/privacy-policy).
+
+6. GDPR-efterlevnad (Dataskyddsförordningen)
 För användare i Europeiska unionen och Sverige:
 
-Enligt GDPR agerar vi som utvecklare av Appen, men vi agerar inte som "Personuppgiftsansvarig" (Data Controller) eller "Personuppgiftsbiträde" (Data Processor) eftersom vi inte samlar in eller har tillgång till dina personuppgifter. Din data förblir exklusivt i din ägo på din enhet.
+Dina studieuppgifter stannar på din enhet, utom räckhåll för oss. Den begränsade köp‑ och betalväggsinformationen ovan hanteras av Apple, RevenueCat och Superwall.
 
-Eftersom vi inte innehar din data, är förfrågningar om att få tillgång till, korrigera eller radera personuppgifter generellt inte tillämpliga på oss, då vi inte har något att komma åt eller radera. Du kan "radera" din data när som helst genom att helt enkelt avinstallera Appen.
+Har du en integritetsfråga eller vill utöva dina rättigheter? Mejla oss på jako@jrlabs.se, så hjälper vi dig eller hänvisar dig till rätt tjänst.
 
 6. Barns integritet
 Vår App riktar sig inte till någon under 13 år. Vi samlar inte medvetet in personligt identifierbar information från barn.
@@ -60,16 +69,18 @@ Last Updated: 2026-07-14
 1. Introduction
 This Privacy Policy describes how Jako Rostami, JR Labs ("we," "our," or "us") handles information when you use our mobile application, Lastbilskörkort Pro (the "App").
 
-We respect your privacy and are committed to protecting it. We built this App to be purely functional and client-side, meaning we have designed it so that we do not collect, store, or process any of your personal data on our servers.
+We care about your privacy. Lastbilskörkort Pro doesn't ask you to create an account or give your name, email, or phone number, and your study progress stays on your device. We run no servers for your data. The one exception is subscriptions: to sell, restore, and manage them, the app uses Apple, RevenueCat, and Superwall, which handle a limited amount of purchase and paywall information described below.
 
 2. Data Collection and Usage
 We do not collect any personal data.
 
-No Account Required: You do not need to create an account, log in, or provide your name, email, or phone number to use the App.
+No Account: You don't need to create an account, log in, or provide your name, email, or phone number.
 
-No Remote Server Connection: The App operates entirely on your device. It does not send data to any external server or cloud database.
+Your study data stays with you: Onboarding answers, reading and quiz progress, quiz and exam sessions, recent activity, and settings live only on your device. We never send your onboarding or quiz answers to anyone.
 
-No Tracking: We do not track your location, your usage habits, or your device identifiers (IDFA).
+Subscriptions: When you open a paywall or buy or restore a subscription, Apple, RevenueCat, and Superwall handle the information needed for that. RevenueCat identifies your subscription with an anonymous ID that isn't tied to who you are.
+
+No ad tracking: The App shows no ads and doesn't track you across other apps, no IDFA and no App Tracking Transparency prompt. Superwall does record how the paywall is used, but only so the subscription flow works and can be improved.
 
 3. Local Storage
 The App uses your device's local internal storage (e.g., iOS UserDefaults or CoreData) to function properly.
@@ -78,17 +89,22 @@ What is stored: We may store data related to your exam progress, quiz scores, an
 
 Where it is stored: This data is stored strictly on your device.
 
-Control: Since this data is stored locally, it is entirely under your control. If you delete the App from your device, this data will be permanently deleted. We have no way to access or recover this data.
+Control: Because your study data lives on your device, we can't see it or recover it, and deleting the App removes it from your device. Note that purchase and subscription records held by Apple, RevenueCat, and Superwall aren't removed by uninstalling, those follow each company's own policies.
 
 4. Third-Party Services
-The App does not include any third-party software development kits (SDKs), analytics tools, or advertising networks. We do not share data with third parties because we do not collect any data to share.
+The App has no ad or analytics networks. It uses three services, and only for subscriptions:
+• Apple / StoreKit handles your actual purchases and subscriptions.
+• RevenueCat manages products, prices, your anonymous subscription status, purchases, restores, and free-trial eligibility.
+• Superwall shows the paywalls and passes purchases through to RevenueCat.
 
-5. GDPR Compliance (General Data Protection Regulation)
+We don't share any of your onboarding or quiz answers with them. Their policies: Apple (apple.com/legal/privacy), RevenueCat (revenuecat.com/privacy), Superwall (superwall.com/legal/privacy-policy).
+
+6. GDPR Compliance (General Data Protection Regulation)
 For users in the European Union and Sweden:
 
-Under the GDPR, we act as the developer of the App, but we do not act as a "Data Controller" or "Data Processor" because we do not collect or have access to your personal data. Your data remains exclusively in your possession on your device.
+Your study data stays on your device, out of our reach. The limited purchase and paywall information above is handled by Apple, RevenueCat, and Superwall.
 
-Since we do not hold your data, requests to access, correct, or delete personal data generally do not apply to us, as we have nothing to access or delete. You may "delete" your data at any time simply by uninstalling the App.
+If you have a privacy question or want to exercise your rights, email us at jako@jrlabs.se and we'll help you or point you to the right service.
 
 6. Children’s Privacy
 Our App does not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children.
