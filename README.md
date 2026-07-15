@@ -2,7 +2,7 @@
 
 ## Svensk version
 
-Integritetspolicy
+## Integritetspolicy
 Senast uppdaterad: 2026-07-15
 
 ### Introduktion
@@ -64,7 +64,7 @@ Webbplats: https://www.jrlabs.se
 
 ## English version
 
-Privacy Policy
+## Privacy Policy
 Last Updated: 2026-07-15
 
 ### Introduction
