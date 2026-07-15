@@ -8,12 +8,10 @@ Senast uppdaterad: 2026-07-15
 ### Introduktion
 Denna integritetspolicy beskriver hur Jako Rostami, JR Labs ("vi", "vår" eller "oss") hanterar information när du använder vår mobilapplikation, Lastbilskörkort Pro ("Appen").
 
-Vi respekterar din integritet och är engagerade i att skydda den. Vi har byggt denna App för att vara rent funktionell och köras helt på klientsidan (client-side), vilket innebär att vi har utformat den så att vi inte samlar in, lagrar eller behandlar några av dina personuppgifter på våra servrar.
-
 Vi bryr oss om din integritet. Lastbilskörkort Pro ber dig inte skapa konto eller lämna namn, e‑post eller telefonnummer och dina studieframsteg stannar på din enhet. Vi driver inga egna servrar för dina data. Undantaget är prenumerationer: för att sälja, återställa och hantera dem använder appen Apple, RevenueCat och Superwall som hanterar en begränsad mängd köp‑ och betalväggsinformation enligt beskrivningen nedan.
 
 ### Datainsamling och användning
-Vi samlar inte in några personuppgifter.
+Vi samlar inte in några uppgifter som identifierar dig personligen.
 
 Inget konto: Du behöver inte skapa konto, logga in eller ange namn, e‑post eller telefonnummer.
 
@@ -75,7 +73,7 @@ This Privacy Policy describes how Jako Rostami, JR Labs ("we," "our," or "us") h
 We care about your privacy. Lastbilskörkort Pro doesn't ask you to create an account or give your name, email, or phone number, and your study progress stays on your device. We run no servers for your data. The one exception is subscriptions: to sell, restore, and manage them, the app uses Apple, RevenueCat, and Superwall, which handle a limited amount of purchase and paywall information described below.
 
 ### Data Collection and Usage
-We do not collect any personal data.
+We don't collect any data that personally identifies you. 
 
 No Account: You don't need to create an account, log in, or provide your name, email, or phone number.
 
